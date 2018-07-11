@@ -14,7 +14,7 @@ end
 puts add_a_key_value_pair
 
 def iterate_through_hash
-  "The #{"
+  "The #{} summer olympics took place in #{}"
 end
 
 def iterate_through_keys
